@@ -1,0 +1,11 @@
+index.test.js
+package-lock.json
+/commands/
+/node_modules/
+.replit
+replit.nix
+/.config/
+/.git/
+/.upm/
+/database/
+/pages/

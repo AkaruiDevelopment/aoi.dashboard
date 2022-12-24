@@ -1,0 +1,26 @@
+{
+  "name": "@akarui/aoi.dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard creating package for aoi.js users.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkaruiDevelopment/dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkaruiDevelopment/dashboard/issues"
+  },
+  "homepage": "https://github.com/AkaruiDevelopment/dashboard#readme",
+  "dependencies": {
+    "aoi.js": "^5.5.5",
+    "discord-oauth2": "^2.10.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
